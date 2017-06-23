@@ -1,0 +1,13 @@
+Location data analysis
+
+The data of location：time is main judgement.
+If the time is not the same ，the record will be invalid， and no need to think about others。
+The second thing. If the event is exactly caught  the same place type and the same transition type should be judges.
+When there are diffetent kinds of places， the most important thing is to find which is the nearest. This is the 
+transaction to think about.
+
+So，as the transition type has not been determined， we have to think about ignore the transition type provided by google.
+So， in any kings of conditions， we have to consider these three dimensions.Time， space and time+space（treated as a transition）
+When all these pre-conditions are satified， we could assert that they are the same event in reality world.
+ 
+The third thing we need to know is that， this basic thing is right in every kind of condition this is right.
